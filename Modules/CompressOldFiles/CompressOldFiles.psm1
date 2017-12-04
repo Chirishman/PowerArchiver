@@ -1,4 +1,4 @@
-function Compress-Older-Than {
+function Compress-OlderThan {
 
     Param(
         [Parameter(Mandatory=$True,Position=1)]
